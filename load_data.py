@@ -50,4 +50,4 @@ def load_data(N):
 		train_target.shape,
 		valid_input.shape,
 		valid_target.shape))
- 	return train_input, train_target, valid_input, valid_target, test_input, test_target, vocab
+	return train_input, train_target, valid_input, valid_target, test_input, test_target, vocab
